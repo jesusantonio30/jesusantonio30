@@ -1,4 +1,4 @@
-### 🏴‍☠️ Hey there! I'm Jesus Morales** 🏴‍☠️
+### 🏴‍☠️ Hey, I'm Jesus Morales!** 🏴‍☠️
 
 I'm a 23-year-old Front-End Developer who's passionate about building amazing apps with code! 💻 I’m always eager to explore new technologies and challenge myself to learn and grow.
 
