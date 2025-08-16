@@ -1,27 +1,27 @@
-### 🏴‍☠️ Hey, I'm Jesus Morales!** 🏴‍☠️
+### 🏴‍☠️ Jesus Morales!** 🏴‍☠️
 
-I'm a 23-year-old Front-End Developer who's passionate about building amazing apps with code! 💻 I’m always eager to explore new technologies and challenge myself to learn and grow.
+23-year-old Front-End Developer passionate about building apps with code. 💻 Eager to explore new tech and grow.
 
 ---
 
 ### **What I Do**
 
-- Front-End Development with a focus on creating intuitive and engaging user experiences.
-- Exploring new technologies to push my skills further.
-- Building projects that are both functional and fun!
+- Front-End Development for intuitive UIs.
+- Exploring technologies to enhance skills.
+- Building functional, fun projects.
 
 ---
 
 ### **Currently Learning**
 
-- React.js for dynamic and interactive UIs.
-- Framer Motion to add smooth animations to my projects.
+- React.js for dynamic UIs.
+- Framer Motion for animations.
 
 ---
 
 ### **Current Project**
 
-- **Photographer Website with React**: A mock photography portfolio built with React to showcase my front-end skills. [Check it out here](https://github.com/jesusantonio30/mockPhotographyWebsite.git)
+- **E-Commerce Website with React**: Showcasing my front-end skills. [Check it out here](https://github.com/jesusantonio30/crown-clothing.git)
 
 ---
 
@@ -34,5 +34,5 @@ I'm a 23-year-old Front-End Developer who's passionate about building amazing ap
 
 ### **Fun Facts**
 
-- I’m a *One Piece* superfan—ask me about my favorite arc! 🏴‍☠️
+- I love *One Piece*! 🏴‍☠️
 - I’m a welder and once dropped a 500lb frame on my fingers. 👨🏻‍🏭
