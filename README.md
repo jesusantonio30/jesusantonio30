@@ -1,4 +1,4 @@
-### 🏴‍☠️ Jesus Morales!** 🏴‍☠️
+### 🏴‍☠️ Jesus Morales! 🏴‍☠️
 
 23-year-old Front-End Developer passionate about building apps with code. 💻 Eager to explore new tech and grow.
 
