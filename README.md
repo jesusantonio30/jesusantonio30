@@ -1,38 +1,26 @@
-### 🏴‍☠️ Jesus Morales! 🏴‍☠️
 
-23-year-old Front-End Developer passionate about building apps with code. 💻 Eager to explore new tech and grow.
+# Jesus Morales
 
----
+👋 Hi, I'm a 23-year-old Computer Science student with a strong passion for systems-level programming.
 
-### **What I Do**
+## About Me
 
-- Front-End Development for intuitive UIs.
-- Exploring technologies to enhance skills.
-- Building functional, fun projects.
+- 🔬 Currently studying **Computer Science**  
+- 🎯 Focused on **system architecture**, **networks**, and low-level programming  
+- 💻 Particularly enthusiastic about **C++** and anything related to systems development  
+- 🔧 By day, I work as a **welder** and **trainer** — I genuinely enjoy training others, but my true passion lies in **software engineering**
 
----
+## Interests
 
-### **Currently Learning**
+- Systems programming and architecture  
+- Computer networks  
+- C++ development and performance optimization  
+- Building efficient, reliable software from the ground up
 
-- React.js for dynamic UIs.
-- Framer Motion for animations.
+## Goals
 
----
+To deepen my expertise in systems programming and contribute to challenging projects that push the boundaries of performance and reliability.
 
-### **Current Project**
+Thanks for visiting my profile! Feel free to explore my repositories or reach out.
 
-- **E-Commerce Website with React**: Showcasing my front-end skills. [Check it out here](https://github.com/jesusantonio30/crown-clothing.git)
-
----
-
-### **Interests**
-
-- Keeping up with the latest tech trends 🌐
-- Traveling with my girlfriend ✈️
-
----
-
-### **Fun Facts**
-
-- I love *One Piece*! 🏴‍☠️
-- I’m a welder and once dropped a 500lb frame on my fingers. 👨🏻‍🏭
+🚀
